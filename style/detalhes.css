@@ -19,7 +19,7 @@ body{
 }
 
 header{
-    width: 100vw;
+    width: 97.7vw;
     display: flex;
     background-color: var(--bg-secundary);
     align-items: center;
@@ -87,11 +87,11 @@ a.info:hover{
     content: "";
     height: 70vh;
     width: 100vw;
-    background-image: url("https://www.themoviedb.org/t/p/original/7CxL8W0J8bzpIVVznQ0whiOKeDH.jpg");
+    background-image: url("https://www.themoviedb.org/t/p/w1000_and_h563_face/wcKFYIiVDvRURrzglV9kGu7fpfY.jpg");
     position: absolute;
     background-size: cover;
     z-index: -1;
-    filter: opacity(.4);
+    filter: opacity(.5 );
     box-shadow: inset 0 -100px 100px var(--bg-primary);
 }
 
